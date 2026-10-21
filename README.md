@@ -30,7 +30,7 @@ Results showed that students receiving higher levels of AI assistance reported s
 |---|---|
 | Source | Kaggle — Ayesha Sal89 |
 | Type | Synthetic (no real student data) |
-| Size | 10,000 sessions |
+| Size | 1,000 sessions |
 | Time Period | August 2024 – June 2025 |
 
 **Key Variables:**
